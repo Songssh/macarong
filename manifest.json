@@ -1,6 +1,6 @@
 {
   "name": "Macarong",
-  "description": "Auto reload webpage",
+  "description": "All your web page will reload by automatically",
   "version": "0.1",
   "manifest_version": 3,
   "content_scripts": [
